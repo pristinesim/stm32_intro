@@ -1,2 +1,4 @@
 # stm32_intro
-stm32_source_testing
+# I started touching more professional materials.
+# Well, will add some rigid constrol structure with this chip.
+
