@@ -1,3 +1,4 @@
 # stm32_intro
-# This section was made to check the basic function of STM32
-stm32_source_testing
+# I started touching more professional materials.
+# Well, will add some rigid constrol structure with this chip.
+
